@@ -1,0 +1,1396 @@
+{
+ "source": {
+  "name": "Wikipedia: BWF World Tour",
+  "pages": [
+   {
+    "title": "2026 BWF World Tour",
+    "revision": 1388341781,
+    "url": "https://en.wikipedia.org/wiki/2026_BWF_World_Tour"
+   },
+   {
+    "title": "2026 BWF World Championships",
+    "revision": 1387798173,
+    "url": "https://en.wikipedia.org/wiki/2026_BWF_World_Championships"
+   },
+   {
+    "title": "2027 BWF World Tour",
+    "revision": 1382530491,
+    "url": "https://en.wikipedia.org/wiki/2027_BWF_World_Tour"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "attribution": "Calendar from Wikipedia (CC BY-SA 4.0), which cites the BWF tournament calendar.",
+  "deadlinesApproximate": true,
+  "importedAt": "2026-11-28T16:55:13.442Z"
+ },
+ "weeks": [
+  {
+   "id": "2026-TW01",
+   "season": 2026,
+   "number": 1,
+   "monday": "2026-01-05",
+   "deadline": "2026-01-06T02:00:00.000Z",
+   "ends": "2026-01-11T14:00:00.000Z",
+   "swingId": "2026-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Malaysia Open",
+     "tier": "S1000",
+     "city": "Kuala Lumpur",
+     "country": "Malaysia",
+     "start": "2026-01-06",
+     "end": "2026-01-11",
+     "firstMatch": "2026-01-06T02:00:00.000Z",
+     "finished": "2026-01-11T14:00:00.000Z",
+     "sourceRef": "2026 Malaysia Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW02",
+   "season": 2026,
+   "number": 2,
+   "monday": "2026-01-12",
+   "deadline": "2026-01-13T04:30:00.000Z",
+   "ends": "2026-01-18T16:30:00.000Z",
+   "swingId": "2026-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "India Open",
+     "tier": "S750",
+     "city": "New Delhi",
+     "country": "India",
+     "start": "2026-01-13",
+     "end": "2026-01-18",
+     "firstMatch": "2026-01-13T04:30:00.000Z",
+     "finished": "2026-01-18T16:30:00.000Z",
+     "sourceRef": "2026 India Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW03",
+   "season": 2026,
+   "number": 3,
+   "monday": "2026-01-19",
+   "deadline": "2026-01-20T03:00:00.000Z",
+   "ends": "2026-01-25T15:00:00.000Z",
+   "swingId": "2026-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Indonesia Masters",
+     "tier": "S500",
+     "city": "Jakarta",
+     "country": "Indonesia",
+     "start": "2026-01-20",
+     "end": "2026-01-25",
+     "firstMatch": "2026-01-20T03:00:00.000Z",
+     "finished": "2026-01-25T15:00:00.000Z",
+     "sourceRef": "2026 Indonesia Masters"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW04",
+   "season": 2026,
+   "number": 4,
+   "monday": "2026-01-26",
+   "deadline": "2026-01-27T03:00:00.000Z",
+   "ends": "2026-02-01T15:00:00.000Z",
+   "swingId": "2026-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Thailand Masters",
+     "tier": "S300",
+     "city": "Bangkok",
+     "country": "Thailand",
+     "start": "2026-01-27",
+     "end": "2026-02-01",
+     "firstMatch": "2026-01-27T03:00:00.000Z",
+     "finished": "2026-02-01T15:00:00.000Z",
+     "sourceRef": "2026 Thailand Masters (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW05",
+   "season": 2026,
+   "number": 5,
+   "monday": "2026-02-23",
+   "deadline": "2026-02-24T09:00:00.000Z",
+   "ends": "2026-03-01T21:00:00.000Z",
+   "swingId": "2026-european-spring",
+   "swingName": "European Spring",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "German Open",
+     "tier": "S300",
+     "city": "Mülheim",
+     "country": "Germany",
+     "start": "2026-02-24",
+     "end": "2026-03-01",
+     "firstMatch": "2026-02-24T09:00:00.000Z",
+     "finished": "2026-03-01T21:00:00.000Z",
+     "sourceRef": "2026 German Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW06",
+   "season": 2026,
+   "number": 6,
+   "monday": "2026-03-02",
+   "deadline": "2026-03-03T10:00:00.000Z",
+   "ends": "2026-03-08T22:00:00.000Z",
+   "swingId": "2026-european-spring",
+   "swingName": "European Spring",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "All England Open",
+     "tier": "S1000",
+     "city": "Birmingham",
+     "country": "England",
+     "start": "2026-03-03",
+     "end": "2026-03-08",
+     "firstMatch": "2026-03-03T10:00:00.000Z",
+     "finished": "2026-03-08T22:00:00.000Z",
+     "sourceRef": "2026 All England Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW07",
+   "season": 2026,
+   "number": 7,
+   "monday": "2026-03-09",
+   "deadline": "2026-03-10T09:00:00.000Z",
+   "ends": "2026-03-15T21:00:00.000Z",
+   "swingId": "2026-european-spring",
+   "swingName": "European Spring",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Swiss Open",
+     "tier": "S300",
+     "city": "Basel",
+     "country": "Switzerland",
+     "start": "2026-03-10",
+     "end": "2026-03-15",
+     "firstMatch": "2026-03-10T09:00:00.000Z",
+     "finished": "2026-03-15T21:00:00.000Z",
+     "sourceRef": "2026 Swiss Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW08",
+   "season": 2026,
+   "number": 8,
+   "monday": "2026-03-16",
+   "deadline": "2026-03-17T09:00:00.000Z",
+   "ends": "2026-03-22T21:00:00.000Z",
+   "swingId": "2026-european-spring",
+   "swingName": "European Spring",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Orléans Masters",
+     "tier": "S300",
+     "city": "Orléans",
+     "country": "France",
+     "start": "2026-03-17",
+     "end": "2026-03-22",
+     "firstMatch": "2026-03-17T09:00:00.000Z",
+     "finished": "2026-03-22T21:00:00.000Z",
+     "sourceRef": "2026 Orléans Masters"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW09",
+   "season": 2026,
+   "number": 9,
+   "monday": "2026-05-11",
+   "deadline": "2026-05-12T03:00:00.000Z",
+   "ends": "2026-05-17T15:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Thailand Open",
+     "tier": "S500",
+     "city": "Bangkok",
+     "country": "Thailand",
+     "start": "2026-05-12",
+     "end": "2026-05-17",
+     "firstMatch": "2026-05-12T03:00:00.000Z",
+     "finished": "2026-05-17T15:00:00.000Z",
+     "sourceRef": "2026 Thailand Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW10",
+   "season": 2026,
+   "number": 10,
+   "monday": "2026-05-18",
+   "deadline": "2026-05-19T02:00:00.000Z",
+   "ends": "2026-05-24T14:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Malaysia Masters",
+     "tier": "S500",
+     "city": "Kuala Lumpur",
+     "country": "Malaysia",
+     "start": "2026-05-19",
+     "end": "2026-05-24",
+     "firstMatch": "2026-05-19T02:00:00.000Z",
+     "finished": "2026-05-24T14:00:00.000Z",
+     "sourceRef": "2026 Malaysia Masters"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW11",
+   "season": 2026,
+   "number": 11,
+   "monday": "2026-05-25",
+   "deadline": "2026-05-26T02:00:00.000Z",
+   "ends": "2026-05-31T14:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Singapore Open",
+     "tier": "S750",
+     "city": "Singapore",
+     "country": "Singapore",
+     "start": "2026-05-26",
+     "end": "2026-05-31",
+     "firstMatch": "2026-05-26T02:00:00.000Z",
+     "finished": "2026-05-31T14:00:00.000Z",
+     "sourceRef": "2026 Singapore Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW12",
+   "season": 2026,
+   "number": 12,
+   "monday": "2026-06-01",
+   "deadline": "2026-06-02T03:00:00.000Z",
+   "ends": "2026-06-07T15:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Indonesia Open",
+     "tier": "S1000",
+     "city": "Jakarta",
+     "country": "Indonesia",
+     "start": "2026-06-02",
+     "end": "2026-06-07",
+     "firstMatch": "2026-06-02T03:00:00.000Z",
+     "finished": "2026-06-07T15:00:00.000Z",
+     "sourceRef": "2026 Indonesia Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW13",
+   "season": 2026,
+   "number": 13,
+   "monday": "2026-06-08",
+   "deadline": "2026-06-09T00:00:00.000Z",
+   "ends": "2026-06-14T12:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Australian Open",
+     "tier": "S500",
+     "city": "Sydney",
+     "country": "Australia",
+     "start": "2026-06-09",
+     "end": "2026-06-14",
+     "firstMatch": "2026-06-09T00:00:00.000Z",
+     "finished": "2026-06-14T12:00:00.000Z",
+     "sourceRef": "2026 Australian Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW14",
+   "season": 2026,
+   "number": 14,
+   "monday": "2026-06-15",
+   "deadline": "2026-06-16T02:00:00.000Z",
+   "ends": "2026-06-21T14:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Macau Open",
+     "tier": "S300",
+     "city": "Macau",
+     "country": "Macau",
+     "start": "2026-06-16",
+     "end": "2026-06-21",
+     "firstMatch": "2026-06-16T02:00:00.000Z",
+     "finished": "2026-06-21T14:00:00.000Z",
+     "sourceRef": "2026 Macau Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW15",
+   "season": 2026,
+   "number": 15,
+   "monday": "2026-06-22",
+   "deadline": "2026-06-23T15:00:00.000Z",
+   "ends": "2026-06-29T03:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "U.S. Open",
+     "tier": "S300",
+     "city": "Fullerton",
+     "country": "United States",
+     "start": "2026-06-23",
+     "end": "2026-06-28",
+     "firstMatch": "2026-06-23T15:00:00.000Z",
+     "finished": "2026-06-29T03:00:00.000Z",
+     "sourceRef": "2026 U.S. Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW16",
+   "season": 2026,
+   "number": 16,
+   "monday": "2026-06-29",
+   "deadline": "2026-06-30T15:00:00.000Z",
+   "ends": "2026-07-06T03:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Canada Open",
+     "tier": "S300",
+     "city": "Markham",
+     "country": "Canada",
+     "start": "2026-06-30",
+     "end": "2026-07-05",
+     "firstMatch": "2026-06-30T15:00:00.000Z",
+     "finished": "2026-07-06T03:00:00.000Z",
+     "sourceRef": "2026 Canada Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW17",
+   "season": 2026,
+   "number": 17,
+   "monday": "2026-07-13",
+   "deadline": "2026-07-14T01:00:00.000Z",
+   "ends": "2026-07-19T13:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Japan Open",
+     "tier": "S750",
+     "city": "Tokyo",
+     "country": "Japan",
+     "start": "2026-07-14",
+     "end": "2026-07-19",
+     "firstMatch": "2026-07-14T01:00:00.000Z",
+     "finished": "2026-07-19T13:00:00.000Z",
+     "sourceRef": "2026 Japan Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW18",
+   "season": 2026,
+   "number": 18,
+   "monday": "2026-07-20",
+   "deadline": "2026-07-21T02:00:00.000Z",
+   "ends": "2026-07-26T14:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "China Open",
+     "tier": "S1000",
+     "city": "Changzhou",
+     "country": "China",
+     "start": "2026-07-21",
+     "end": "2026-07-26",
+     "firstMatch": "2026-07-21T02:00:00.000Z",
+     "finished": "2026-07-26T14:00:00.000Z",
+     "sourceRef": "2026 China Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW19",
+   "season": 2026,
+   "number": 19,
+   "monday": "2026-07-27",
+   "deadline": "2026-07-28T02:00:00.000Z",
+   "ends": "2026-08-02T14:00:00.000Z",
+   "swingId": "2026-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Taipei Open",
+     "tier": "S300",
+     "city": "Taipei",
+     "country": "Taiwan",
+     "start": "2026-07-28",
+     "end": "2026-08-02",
+     "firstMatch": "2026-07-28T02:00:00.000Z",
+     "finished": "2026-08-02T14:00:00.000Z",
+     "sourceRef": "2026 Taipei Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW20",
+   "season": 2026,
+   "number": 20,
+   "monday": "2026-08-03",
+   "deadline": "2026-08-04T01:00:00.000Z",
+   "ends": "2026-08-09T13:00:00.000Z",
+   "swingId": "2026-championship",
+   "swingName": "Championship",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Korea Masters",
+     "tier": "S300",
+     "city": "Asan",
+     "country": "South Korea",
+     "start": "2026-08-04",
+     "end": "2026-08-09",
+     "firstMatch": "2026-08-04T01:00:00.000Z",
+     "finished": "2026-08-09T13:00:00.000Z",
+     "sourceRef": "2026 Korea Masters"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW21",
+   "season": 2026,
+   "number": 21,
+   "monday": "2026-08-17",
+   "deadline": "2026-08-17T04:30:00.000Z",
+   "ends": "2026-08-23T16:30:00.000Z",
+   "swingId": "2026-championship",
+   "swingName": "Championship",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "World Championships",
+     "tier": "WC",
+     "city": "New Delhi",
+     "country": "India",
+     "start": "2026-08-17",
+     "end": "2026-08-23",
+     "firstMatch": "2026-08-17T04:30:00.000Z",
+     "finished": "2026-08-23T16:30:00.000Z",
+     "sourceRef": "2026 BWF World Championships"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW22",
+   "season": 2026,
+   "number": 22,
+   "monday": "2026-08-31",
+   "deadline": "2026-09-01T02:00:00.000Z",
+   "ends": "2026-09-06T14:00:00.000Z",
+   "swingId": "2026-championship",
+   "swingName": "Championship",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "China Masters",
+     "tier": "S750",
+     "city": "Shenzhen",
+     "country": "China",
+     "start": "2026-09-01",
+     "end": "2026-09-06",
+     "firstMatch": "2026-09-01T02:00:00.000Z",
+     "finished": "2026-09-06T14:00:00.000Z",
+     "sourceRef": "2026 China Masters"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW23",
+   "season": 2026,
+   "number": 23,
+   "monday": "2026-10-05",
+   "deadline": "2026-10-06T08:00:00.000Z",
+   "ends": "2026-10-11T20:00:00.000Z",
+   "swingId": "2026-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Arctic Open",
+     "tier": "S500",
+     "city": "Vantaa",
+     "country": "Finland",
+     "start": "2026-10-06",
+     "end": "2026-10-11",
+     "firstMatch": "2026-10-06T08:00:00.000Z",
+     "finished": "2026-10-11T20:00:00.000Z",
+     "sourceRef": "2026 Arctic Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW24",
+   "season": 2026,
+   "number": 24,
+   "monday": "2026-10-12",
+   "deadline": "2026-10-13T09:00:00.000Z",
+   "ends": "2026-10-18T21:00:00.000Z",
+   "swingId": "2026-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Denmark Open",
+     "tier": "S750",
+     "city": "Odense",
+     "country": "Denmark",
+     "start": "2026-10-13",
+     "end": "2026-10-18",
+     "firstMatch": "2026-10-13T09:00:00.000Z",
+     "finished": "2026-10-18T21:00:00.000Z",
+     "sourceRef": "2026 Denmark Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW25",
+   "season": 2026,
+   "number": 25,
+   "monday": "2026-10-19",
+   "deadline": "2026-10-20T09:00:00.000Z",
+   "ends": "2026-10-25T21:00:00.000Z",
+   "swingId": "2026-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "French Open",
+     "tier": "S750",
+     "city": "Tremblay-en-France",
+     "country": "France",
+     "start": "2026-10-20",
+     "end": "2026-10-25",
+     "firstMatch": "2026-10-20T09:00:00.000Z",
+     "finished": "2026-10-25T21:00:00.000Z",
+     "sourceRef": "2026 French Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW26",
+   "season": 2026,
+   "number": 26,
+   "monday": "2026-10-26",
+   "deadline": "2026-10-27T09:00:00.000Z",
+   "ends": "2026-11-01T21:00:00.000Z",
+   "swingId": "2026-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Hylo Open",
+     "tier": "S500",
+     "city": "Saarbrücken",
+     "country": "Germany",
+     "start": "2026-10-27",
+     "end": "2026-11-01",
+     "firstMatch": "2026-10-27T09:00:00.000Z",
+     "finished": "2026-11-01T21:00:00.000Z",
+     "sourceRef": "2026 Hylo Open"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW27",
+   "season": 2026,
+   "number": 27,
+   "monday": "2026-11-02",
+   "deadline": "2026-11-03T01:00:00.000Z",
+   "ends": "2026-11-08T13:00:00.000Z",
+   "swingId": "2026-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Korea Open",
+     "tier": "S500",
+     "city": "Yeosu",
+     "country": "South Korea",
+     "start": "2026-11-03",
+     "end": "2026-11-08",
+     "firstMatch": "2026-11-03T01:00:00.000Z",
+     "finished": "2026-11-08T13:00:00.000Z",
+     "sourceRef": "2026 Korea Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW28",
+   "season": 2026,
+   "number": 28,
+   "monday": "2026-11-09",
+   "deadline": "2026-11-10T01:00:00.000Z",
+   "ends": "2026-11-15T13:00:00.000Z",
+   "swingId": "2026-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Japan Masters",
+     "tier": "S500",
+     "city": "Kumamoto",
+     "country": "Japan",
+     "start": "2026-11-10",
+     "end": "2026-11-15",
+     "firstMatch": "2026-11-10T01:00:00.000Z",
+     "finished": "2026-11-15T13:00:00.000Z",
+     "sourceRef": "2026 Japan Masters"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW29",
+   "season": 2026,
+   "number": 29,
+   "monday": "2026-11-16",
+   "deadline": "2026-11-17T02:00:00.000Z",
+   "ends": "2026-11-22T14:00:00.000Z",
+   "swingId": "2026-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Hong Kong Open",
+     "tier": "S500",
+     "city": "Hong Kong",
+     "country": "Hong Kong",
+     "start": "2026-11-17",
+     "end": "2026-11-22",
+     "firstMatch": "2026-11-17T02:00:00.000Z",
+     "finished": "2026-11-22T14:00:00.000Z",
+     "sourceRef": "2026 Hong Kong Open (badminton)"
+    }
+   ]
+  },
+  {
+   "id": "2026-TW30",
+   "season": 2026,
+   "number": 30,
+   "monday": "2026-11-23",
+   "deadline": "2026-11-24T04:30:00.000Z",
+   "ends": "2026-11-29T16:30:00.000Z",
+   "swingId": "2026-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Syed Modi International",
+     "tier": "S300",
+     "city": "Lucknow",
+     "country": "India",
+     "start": "2026-11-24",
+     "end": "2026-11-29",
+     "firstMatch": "2026-11-24T04:30:00.000Z",
+     "finished": "2026-11-29T16:30:00.000Z",
+     "sourceRef": "2026 Syed Modi International"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW01",
+   "season": 2027,
+   "number": 1,
+   "monday": "2027-01-18",
+   "deadline": "2027-01-21T02:00:00.000Z",
+   "ends": "2027-01-31T14:00:00.000Z",
+   "swingId": "2027-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Malaysia Open",
+     "tier": "S1000",
+     "city": "Kuala Lumpur",
+     "country": "Malaysia",
+     "start": "2027-01-21",
+     "end": "2027-01-31",
+     "firstMatch": "2027-01-21T02:00:00.000Z",
+     "finished": "2027-01-31T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Malaysia Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW02",
+   "season": 2027,
+   "number": 2,
+   "monday": "2027-02-01",
+   "deadline": "2027-02-02T04:30:00.000Z",
+   "ends": "2027-02-07T16:30:00.000Z",
+   "swingId": "2027-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "India Open",
+     "tier": "S750",
+     "city": "New Delhi",
+     "country": "India",
+     "start": "2027-02-02",
+     "end": "2027-02-07",
+     "firstMatch": "2027-02-02T04:30:00.000Z",
+     "finished": "2027-02-07T16:30:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 India Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW03",
+   "season": 2027,
+   "number": 3,
+   "monday": "2027-02-08",
+   "deadline": "2027-02-09T03:00:00.000Z",
+   "ends": "2027-02-14T15:00:00.000Z",
+   "swingId": "2027-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Indonesia Masters",
+     "tier": "S500",
+     "city": "Jakarta",
+     "country": "Indonesia",
+     "start": "2027-02-09",
+     "end": "2027-02-14",
+     "firstMatch": "2027-02-09T03:00:00.000Z",
+     "finished": "2027-02-14T15:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Indonesia Masters&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW04",
+   "season": 2027,
+   "number": 4,
+   "monday": "2027-02-15",
+   "deadline": "2027-02-16T03:00:00.000Z",
+   "ends": "2027-02-21T15:00:00.000Z",
+   "swingId": "2027-asian-opening",
+   "swingName": "Asian Opening",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Thailand Masters",
+     "tier": "S300",
+     "city": "Bangkok",
+     "country": "Thailand",
+     "start": "2027-02-16",
+     "end": "2027-02-21",
+     "firstMatch": "2027-02-16T03:00:00.000Z",
+     "finished": "2027-02-21T15:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Thailand Masters (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW05",
+   "season": 2027,
+   "number": 5,
+   "monday": "2027-02-22",
+   "deadline": "2027-02-23T09:00:00.000Z",
+   "ends": "2027-02-28T21:00:00.000Z",
+   "swingId": "2027-european-spring",
+   "swingName": "European Spring",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "German Open",
+     "tier": "S500",
+     "city": "Mülheim",
+     "country": "Germany",
+     "start": "2027-02-23",
+     "end": "2027-02-28",
+     "firstMatch": "2027-02-23T09:00:00.000Z",
+     "finished": "2027-02-28T21:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 German Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW06",
+   "season": 2027,
+   "number": 6,
+   "monday": "2027-03-01",
+   "deadline": "2027-03-04T10:00:00.000Z",
+   "ends": "2027-03-14T22:00:00.000Z",
+   "swingId": "2027-european-spring",
+   "swingName": "European Spring",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "All England Open",
+     "tier": "S1000",
+     "city": "Birmingham",
+     "country": "England",
+     "start": "2027-03-04",
+     "end": "2027-03-14",
+     "firstMatch": "2027-03-04T10:00:00.000Z",
+     "finished": "2027-03-14T22:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 All England Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW07",
+   "season": 2027,
+   "number": 7,
+   "monday": "2027-03-15",
+   "deadline": "2027-03-16T09:00:00.000Z",
+   "ends": "2027-03-21T21:00:00.000Z",
+   "swingId": "2027-european-spring",
+   "swingName": "European Spring",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Swiss Open",
+     "tier": "S300",
+     "city": "Basel",
+     "country": "Switzerland",
+     "start": "2027-03-16",
+     "end": "2027-03-21",
+     "firstMatch": "2027-03-16T09:00:00.000Z",
+     "finished": "2027-03-21T21:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Swiss Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW08",
+   "season": 2027,
+   "number": 8,
+   "monday": "2027-03-22",
+   "deadline": "2027-03-23T09:00:00.000Z",
+   "ends": "2027-03-28T21:00:00.000Z",
+   "swingId": "2027-european-spring",
+   "swingName": "European Spring",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Orléans Masters",
+     "tier": "S300",
+     "city": "Orléans",
+     "country": "France",
+     "start": "2027-03-23",
+     "end": "2027-03-28",
+     "firstMatch": "2027-03-23T09:00:00.000Z",
+     "finished": "2027-03-28T21:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Orléans Masters&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW09",
+   "season": 2027,
+   "number": 9,
+   "monday": "2027-05-03",
+   "deadline": "2027-05-04T02:00:00.000Z",
+   "ends": "2027-05-09T14:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Taipei Open",
+     "tier": "S300",
+     "city": "Taipei",
+     "country": "Taiwan",
+     "start": "2027-05-04",
+     "end": "2027-05-09",
+     "firstMatch": "2027-05-04T02:00:00.000Z",
+     "finished": "2027-05-09T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Taipei Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW10",
+   "season": 2027,
+   "number": 10,
+   "monday": "2027-05-10",
+   "deadline": "2027-05-11T01:00:00.000Z",
+   "ends": "2027-05-16T13:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Korea Open",
+     "tier": "S500",
+     "city": "TBC",
+     "country": "South Korea",
+     "start": "2027-05-11",
+     "end": "2027-05-16",
+     "firstMatch": "2027-05-11T01:00:00.000Z",
+     "finished": "2027-05-16T13:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Korea Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW11",
+   "season": 2027,
+   "number": 11,
+   "monday": "2027-05-17",
+   "deadline": "2027-05-18T02:00:00.000Z",
+   "ends": "2027-05-23T14:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Hong Kong Open",
+     "tier": "S750",
+     "city": "Hong Kong",
+     "country": "Hong Kong",
+     "start": "2027-05-18",
+     "end": "2027-05-23",
+     "firstMatch": "2027-05-18T02:00:00.000Z",
+     "finished": "2027-05-23T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Hong Kong Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW12",
+   "season": 2027,
+   "number": 12,
+   "monday": "2027-05-24",
+   "deadline": "2027-05-27T03:00:00.000Z",
+   "ends": "2027-06-06T15:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Indonesia Open",
+     "tier": "S1000",
+     "city": "Jakarta",
+     "country": "Indonesia",
+     "start": "2027-05-27",
+     "end": "2027-06-06",
+     "firstMatch": "2027-05-27T03:00:00.000Z",
+     "finished": "2027-06-06T15:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Indonesia Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW13",
+   "season": 2027,
+   "number": 13,
+   "monday": "2027-06-07",
+   "deadline": "2027-06-08T02:00:00.000Z",
+   "ends": "2027-06-13T14:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Singapore Open",
+     "tier": "S500",
+     "city": "Singapore",
+     "country": "Singapore",
+     "start": "2027-06-08",
+     "end": "2027-06-13",
+     "firstMatch": "2027-06-08T02:00:00.000Z",
+     "finished": "2027-06-13T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Singapore Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW14",
+   "season": 2027,
+   "number": 14,
+   "monday": "2027-06-28",
+   "deadline": "2027-06-29T15:00:00.000Z",
+   "ends": "2027-07-05T03:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Canada Open",
+     "tier": "S300",
+     "city": "TBC",
+     "country": "Canada",
+     "start": "2027-06-29",
+     "end": "2027-07-04",
+     "firstMatch": "2027-06-29T15:00:00.000Z",
+     "finished": "2027-07-05T03:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Canada Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW15",
+   "season": 2027,
+   "number": 15,
+   "monday": "2027-07-05",
+   "deadline": "2027-07-06T15:00:00.000Z",
+   "ends": "2027-07-12T03:00:00.000Z",
+   "swingId": "2027-asian-summer",
+   "swingName": "Asian Summer",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "U.S. Open",
+     "tier": "S300",
+     "city": "Los Angeles",
+     "country": "United States",
+     "start": "2027-07-06",
+     "end": "2027-07-11",
+     "firstMatch": "2027-07-06T15:00:00.000Z",
+     "finished": "2027-07-12T03:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 U.S. Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW16",
+   "season": 2027,
+   "number": 16,
+   "monday": "2027-08-09",
+   "deadline": "2027-08-10T03:00:00.000Z",
+   "ends": "2027-08-15T15:00:00.000Z",
+   "swingId": "2027-championship",
+   "swingName": "Championship",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "Thailand Open",
+     "tier": "S500",
+     "city": "Bangkok",
+     "country": "Thailand",
+     "start": "2027-08-10",
+     "end": "2027-08-15",
+     "firstMatch": "2027-08-10T03:00:00.000Z",
+     "finished": "2027-08-15T15:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Thailand Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW17",
+   "season": 2027,
+   "number": 17,
+   "monday": "2027-08-16",
+   "deadline": "2027-08-17T02:00:00.000Z",
+   "ends": "2027-08-22T14:00:00.000Z",
+   "swingId": "2027-championship",
+   "swingName": "Championship",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Malaysia Masters",
+     "tier": "S500",
+     "city": "Kuala Lumpur",
+     "country": "Malaysia",
+     "start": "2027-08-17",
+     "end": "2027-08-22",
+     "firstMatch": "2027-08-17T02:00:00.000Z",
+     "finished": "2027-08-22T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Malaysia Masters&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW18",
+   "season": 2027,
+   "number": 18,
+   "monday": "2027-08-23",
+   "deadline": "2027-08-24T01:00:00.000Z",
+   "ends": "2027-08-29T13:00:00.000Z",
+   "swingId": "2027-championship",
+   "swingName": "Championship",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Japan Open",
+     "tier": "S750",
+     "city": "Tokyo",
+     "country": "Japan",
+     "start": "2027-08-24",
+     "end": "2027-08-29",
+     "firstMatch": "2027-08-24T01:00:00.000Z",
+     "finished": "2027-08-29T13:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Japan Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW19",
+   "season": 2027,
+   "number": 19,
+   "monday": "2027-08-30",
+   "deadline": "2027-09-02T02:00:00.000Z",
+   "ends": "2027-09-12T14:00:00.000Z",
+   "swingId": "2027-championship",
+   "swingName": "Championship",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "China Open",
+     "tier": "S1000",
+     "city": "Chengdu",
+     "country": "China",
+     "start": "2027-09-02",
+     "end": "2027-09-12",
+     "firstMatch": "2027-09-02T02:00:00.000Z",
+     "finished": "2027-09-12T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 China Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW20",
+   "season": 2027,
+   "number": 20,
+   "monday": "2027-09-27",
+   "deadline": "2027-09-28T08:00:00.000Z",
+   "ends": "2027-10-03T20:00:00.000Z",
+   "swingId": "2027-championship",
+   "swingName": "Championship",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Arctic Open",
+     "tier": "S500",
+     "city": "Vantaa",
+     "country": "Finland",
+     "start": "2027-09-28",
+     "end": "2027-10-03",
+     "firstMatch": "2027-09-28T08:00:00.000Z",
+     "finished": "2027-10-03T20:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Arctic Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW21",
+   "season": 2027,
+   "number": 21,
+   "monday": "2027-10-04",
+   "deadline": "2027-10-05T09:00:00.000Z",
+   "ends": "2027-10-10T21:00:00.000Z",
+   "swingId": "2027-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "French Open",
+     "tier": "S750",
+     "city": "Paris",
+     "country": "France",
+     "start": "2027-10-05",
+     "end": "2027-10-10",
+     "firstMatch": "2027-10-05T09:00:00.000Z",
+     "finished": "2027-10-10T21:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 French Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW22",
+   "season": 2027,
+   "number": 22,
+   "monday": "2027-10-11",
+   "deadline": "2027-10-14T09:00:00.000Z",
+   "ends": "2027-10-24T21:00:00.000Z",
+   "swingId": "2027-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Denmark Open",
+     "tier": "S1000",
+     "city": "Odense",
+     "country": "Denmark",
+     "start": "2027-10-14",
+     "end": "2027-10-24",
+     "firstMatch": "2027-10-14T09:00:00.000Z",
+     "finished": "2027-10-24T21:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Denmark Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW23",
+   "season": 2027,
+   "number": 23,
+   "monday": "2027-10-25",
+   "deadline": "2027-10-26T09:00:00.000Z",
+   "ends": "2027-10-31T21:00:00.000Z",
+   "swingId": "2027-european-autumn",
+   "swingName": "European Autumn",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Hylo Open",
+     "tier": "S300",
+     "city": "Saarbrücken",
+     "country": "Germany",
+     "start": "2027-10-26",
+     "end": "2027-10-31",
+     "firstMatch": "2027-10-26T09:00:00.000Z",
+     "finished": "2027-10-31T21:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Hylo Open&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW24",
+   "season": 2027,
+   "number": 24,
+   "monday": "2027-11-01",
+   "deadline": "2027-11-02T02:00:00.000Z",
+   "ends": "2027-11-07T14:00:00.000Z",
+   "swingId": "2027-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": true,
+   "events": [
+    {
+     "name": "China Masters",
+     "tier": "S750",
+     "city": "Shenzhen",
+     "country": "China",
+     "start": "2027-11-02",
+     "end": "2027-11-07",
+     "firstMatch": "2027-11-02T02:00:00.000Z",
+     "finished": "2027-11-07T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 China Masters&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW25",
+   "season": 2027,
+   "number": 25,
+   "monday": "2027-11-08",
+   "deadline": "2027-11-09T01:00:00.000Z",
+   "ends": "2027-11-14T13:00:00.000Z",
+   "swingId": "2027-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Japan Masters",
+     "tier": "S500",
+     "city": "Kumamoto",
+     "country": "Japan",
+     "start": "2027-11-09",
+     "end": "2027-11-14",
+     "firstMatch": "2027-11-09T01:00:00.000Z",
+     "finished": "2027-11-14T13:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Japan Masters&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW26",
+   "season": 2027,
+   "number": 26,
+   "monday": "2027-11-15",
+   "deadline": "2027-11-16T00:00:00.000Z",
+   "ends": "2027-11-21T12:00:00.000Z",
+   "swingId": "2027-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Australian Open",
+     "tier": "S500",
+     "city": "Sydney",
+     "country": "Australia",
+     "start": "2027-11-16",
+     "end": "2027-11-21",
+     "firstMatch": "2027-11-16T00:00:00.000Z",
+     "finished": "2027-11-21T12:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Australian Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  },
+  {
+   "id": "2027-TW27",
+   "season": 2027,
+   "number": 27,
+   "monday": "2027-11-22",
+   "deadline": "2027-11-23T02:00:00.000Z",
+   "ends": "2027-11-28T14:00:00.000Z",
+   "swingId": "2027-asian-finale",
+   "swingName": "Asian Finale",
+   "swingStart": false,
+   "events": [
+    {
+     "name": "Macau Open",
+     "tier": "S300",
+     "city": "Macau",
+     "country": "Macau",
+     "start": "2027-11-23",
+     "end": "2027-11-28",
+     "firstMatch": "2027-11-23T02:00:00.000Z",
+     "finished": "2027-11-28T14:00:00.000Z",
+     "sourceRef": "/w/index.php?title=2027 Macau Open (badminton)&action=edit&redlink=1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "publishedAt": "2026-11-28T16:55:21.898Z",
+  "contentHash": "9e0dd2e3630119c9461d1fd28254d46148121680b4071105340dd42d31737a98",
+  "results": {
+    "file": "results.json",
+    "importedAt": "2026-11-28T16:55:14.885Z",
+    "bytes": 721296,
+    "sha256": "744b22b1f8d842576df8d0fe8b442147f60c542fe5fbc6e04f841941ae9550c4",
+    "contentHash": "00a9fd69f2383eb85ac0d27b369cc920b1ca8310cb441b9f383e1a7469c58bde",
+    "weeks": 30,
+    "live": [
+      "2026-TW30"
+    ]
+  },
+  "entries": {
+    "file": "entries.json",
+    "importedAt": "2026-11-24T04:51:42.923Z",
+    "bytes": 28712,
+    "sha256": "a04bf9dadd86920c700924b846aeb328d7f0c7ea67344ad54416b01e744b23ac",
+    "contentHash": "9ad310d3d94b32d2cae44fc7b084f8a1722b942fa971659e13b0f3410ffa56d1"
+  },
+  "calendar": {
+    "file": "calendar.json",
+    "importedAt": "2026-11-28T16:55:13.442Z",
+    "bytes": 35669,
+    "sha256": "e9b5ce1bb30c0dcb73cc9b1a392cf112bd532067f92b5645568ceafbfb1d0dff",
+    "contentHash": "d908eea4bde2e004ec474f5430fb13274cd81374e14ed80830c6d88d3db7ba1b"
+  }
+}

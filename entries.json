@@ -1,0 +1,1411 @@
+{
+ "synthetic": false,
+ "source": {
+  "name": "Wikipedia: BWF World Ranking",
+  "url": "https://en.wikipedia.org/wiki/BWF_World_Ranking",
+  "revision": 1387043407,
+  "license": "CC BY-SA 4.0",
+  "attribution": "Rankings from Wikipedia (CC BY-SA 4.0), which cites the BWF World Rankings.",
+  "asOf": {
+   "MS": "17 November 2026",
+   "WS": "17 November 2026",
+   "MD": "17 November 2026",
+   "WD": "17 November 2026",
+   "XD": "10 November 2026"
+  },
+  "importedAt": "2026-11-24T04:51:42.923Z",
+  "pricedFor": "2026-TW30"
+ },
+ "entries": [
+  {
+   "key": "wp:Christo_Popov",
+   "discipline": "MS",
+   "name": "POPOV",
+   "fullName": "Christo POPOV",
+   "nation": "FRA",
+   "rank": 1,
+   "points": 89932,
+   "price": 40,
+   "players": [
+    "wp:Christo_Popov"
+   ]
+  },
+  {
+   "key": "wp:Kunlavut_Vitidsarn",
+   "discipline": "MS",
+   "name": "VITIDSARN",
+   "fullName": "Kunlavut VITIDSARN",
+   "nation": "THA",
+   "rank": 2,
+   "points": 89465,
+   "price": 36,
+   "players": [
+    "wp:Kunlavut_Vitidsarn"
+   ]
+  },
+  {
+   "key": "wp:Anders_Antonsen",
+   "discipline": "MS",
+   "name": "ANTONSEN",
+   "fullName": "Anders ANTONSEN",
+   "nation": "DEN",
+   "rank": 3,
+   "points": 85525,
+   "price": 33,
+   "players": [
+    "wp:Anders_Antonsen"
+   ]
+  },
+  {
+   "key": "wp:Victor_Lai",
+   "discipline": "MS",
+   "name": "LAI",
+   "fullName": "Victor LAI",
+   "nation": "CAN",
+   "rank": 4,
+   "points": 84245,
+   "price": 30,
+   "players": [
+    "wp:Victor_Lai"
+   ]
+  },
+  {
+   "key": "wp:Chou_Tien-chen",
+   "discipline": "MS",
+   "name": "CHOU",
+   "fullName": "CHOU Tien-chen",
+   "nation": "TPE",
+   "rank": 5,
+   "points": 82230,
+   "price": 27,
+   "players": [
+    "wp:Chou_Tien-chen"
+   ]
+  },
+  {
+   "key": "wp:Alex_Lanier",
+   "discipline": "MS",
+   "name": "LANIER",
+   "fullName": "Alex LANIER",
+   "nation": "FRA",
+   "rank": 6,
+   "points": 81565,
+   "price": 24,
+   "players": [
+    "wp:Alex_Lanier"
+   ]
+  },
+  {
+   "key": "wp:Shi_Yuqi",
+   "discipline": "MS",
+   "name": "SHI",
+   "fullName": "SHI Yuqi",
+   "nation": "CHN",
+   "rank": 7,
+   "points": 79525,
+   "price": 21,
+   "players": [
+    "wp:Shi_Yuqi"
+   ]
+  },
+  {
+   "key": "wp:Jonatan_Christie",
+   "discipline": "MS",
+   "name": "CHRISTIE",
+   "fullName": "Jonatan CHRISTIE",
+   "nation": "INA",
+   "rank": 8,
+   "points": 78631,
+   "price": 19,
+   "players": [
+    "wp:Jonatan_Christie"
+   ]
+  },
+  {
+   "key": "wp:Kodai_Naraoka",
+   "discipline": "MS",
+   "name": "NARAOKA",
+   "fullName": "Kodai NARAOKA",
+   "nation": "JPN",
+   "rank": 9,
+   "points": 75590,
+   "price": 17,
+   "players": [
+    "wp:Kodai_Naraoka"
+   ]
+  },
+  {
+   "key": "wp:Alwi_Farhan",
+   "discipline": "MS",
+   "name": "FARHAN",
+   "fullName": "Alwi FARHAN",
+   "nation": "INA",
+   "rank": 10,
+   "points": 73699,
+   "price": 15,
+   "players": [
+    "wp:Alwi_Farhan"
+   ]
+  },
+  {
+   "key": "wp:Lakshya_Sen",
+   "discipline": "MS",
+   "name": "SEN",
+   "fullName": "Lakshya SEN",
+   "nation": "IND",
+   "rank": 11,
+   "points": 68503,
+   "price": 14,
+   "players": [
+    "wp:Lakshya_Sen"
+   ]
+  },
+  {
+   "key": "wp:Loh_Kean_Yew",
+   "discipline": "MS",
+   "name": "YEW",
+   "fullName": "Loh Kean YEW",
+   "nation": "SGP",
+   "rank": 12,
+   "points": 68300,
+   "price": 13,
+   "players": [
+    "wp:Loh_Kean_Yew"
+   ]
+  },
+  {
+   "key": "wp:Toma_Junior_Popov",
+   "discipline": "MS",
+   "name": "POPOV",
+   "fullName": "Toma Junior POPOV",
+   "nation": "FRA",
+   "rank": 13,
+   "points": 66047,
+   "price": 12,
+   "players": [
+    "wp:Toma_Junior_Popov"
+   ]
+  },
+  {
+   "key": "wp:Lin_Chun-yi_(badminton)",
+   "discipline": "MS",
+   "name": "LIN",
+   "fullName": "LIN Chun-yi",
+   "nation": "TPE",
+   "rank": 14,
+   "points": 64924,
+   "price": 11,
+   "players": [
+    "wp:Lin_Chun-yi_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Koki_Watanabe",
+   "discipline": "MS",
+   "name": "WATANABE",
+   "fullName": "Koki WATANABE",
+   "nation": "JPN",
+   "rank": 15,
+   "points": 59220,
+   "price": 10,
+   "players": [
+    "wp:Koki_Watanabe"
+   ]
+  },
+  {
+   "key": "wp:Yushi_Tanaka",
+   "discipline": "MS",
+   "name": "TANAKA",
+   "fullName": "Yushi TANAKA",
+   "nation": "JPN",
+   "rank": 16,
+   "points": 60025,
+   "price": 9,
+   "players": [
+    "wp:Yushi_Tanaka"
+   ]
+  },
+  {
+   "key": "wp:Li_Shifeng",
+   "discipline": "MS",
+   "name": "LI",
+   "fullName": "LI Shifeng",
+   "nation": "CHN",
+   "rank": 17,
+   "points": 57383,
+   "price": 8,
+   "players": [
+    "wp:Li_Shifeng"
+   ]
+  },
+  {
+   "key": "wp:Panitchaphon_Teeraratsakul",
+   "discipline": "MS",
+   "name": "TEERARATSAKUL",
+   "fullName": "Panitchaphon TEERARATSAKUL",
+   "nation": "THA",
+   "rank": 18,
+   "points": 57295,
+   "price": 8,
+   "players": [
+    "wp:Panitchaphon_Teeraratsakul"
+   ]
+  },
+  {
+   "key": "wp:Lee_Cheuk_Yiu",
+   "discipline": "MS",
+   "name": "LEE",
+   "fullName": "LEE Cheuk Yiu",
+   "nation": "HKG",
+   "rank": 19,
+   "points": 54143,
+   "price": 8,
+   "players": [
+    "wp:Lee_Cheuk_Yiu"
+   ]
+  },
+  {
+   "key": "wp:Jason_Gunawan",
+   "discipline": "MS",
+   "name": "JASON",
+   "fullName": "JASON Gunawan",
+   "nation": "HKG",
+   "rank": 20,
+   "points": 55560,
+   "price": 8,
+   "players": [
+    "wp:Jason_Gunawan"
+   ]
+  },
+  {
+   "key": "wp:An_Se-young",
+   "discipline": "WS",
+   "name": "AN",
+   "fullName": "AN Se-young",
+   "nation": "KOR",
+   "rank": 1,
+   "points": 122287,
+   "price": 40,
+   "players": [
+    "wp:An_Se-young"
+   ]
+  },
+  {
+   "key": "wp:Akane_Yamaguchi",
+   "discipline": "WS",
+   "name": "YAMAGUCHI",
+   "fullName": "Akane YAMAGUCHI",
+   "nation": "JPN",
+   "rank": 2,
+   "points": 103726,
+   "price": 36,
+   "players": [
+    "wp:Akane_Yamaguchi"
+   ]
+  },
+  {
+   "key": "wp:Wang_Zhiyi",
+   "discipline": "WS",
+   "name": "WANG",
+   "fullName": "WANG Zhiyi",
+   "nation": "CHN",
+   "rank": 3,
+   "points": 101389,
+   "price": 33,
+   "players": [
+    "wp:Wang_Zhiyi"
+   ]
+  },
+  {
+   "key": "wp:Chen_Yufei",
+   "discipline": "WS",
+   "name": "CHEN",
+   "fullName": "CHEN Yufei",
+   "nation": "CHN",
+   "rank": 4,
+   "points": 87351,
+   "price": 30,
+   "players": [
+    "wp:Chen_Yufei"
+   ]
+  },
+  {
+   "key": "wp:P._V._Sindhu",
+   "discipline": "WS",
+   "name": "P. V. SINDHU",
+   "fullName": "P. V. SINDHU",
+   "nation": "IND",
+   "rank": 5,
+   "points": 74421,
+   "price": 27,
+   "players": [
+    "wp:P._V._Sindhu"
+   ]
+  },
+  {
+   "key": "wp:Ratchanok_Intanon",
+   "discipline": "WS",
+   "name": "INTANON",
+   "fullName": "Ratchanok INTANON",
+   "nation": "THA",
+   "rank": 6,
+   "points": 73386,
+   "price": 24,
+   "players": [
+    "wp:Ratchanok_Intanon"
+   ]
+  },
+  {
+   "key": "wp:Tomoka_Miyazaki",
+   "discipline": "WS",
+   "name": "MIYAZAKI",
+   "fullName": "Tomoka MIYAZAKI",
+   "nation": "JPN",
+   "rank": 7,
+   "points": 71406,
+   "price": 21,
+   "players": [
+    "wp:Tomoka_Miyazaki"
+   ]
+  },
+  {
+   "key": "wp:Pornpawee_Chochuwong",
+   "discipline": "WS",
+   "name": "CHOCHUWONG",
+   "fullName": "Pornpawee CHOCHUWONG",
+   "nation": "THA",
+   "rank": 8,
+   "points": 70277,
+   "price": 19,
+   "players": [
+    "wp:Pornpawee_Chochuwong"
+   ]
+  },
+  {
+   "key": "wp:Putri_Kusuma_Wardani",
+   "discipline": "WS",
+   "name": "WARDANI",
+   "fullName": "Putri Kusuma WARDANI",
+   "nation": "INA",
+   "rank": 9,
+   "points": 69903,
+   "price": 17,
+   "players": [
+    "wp:Putri_Kusuma_Wardani"
+   ]
+  },
+  {
+   "key": "wp:Nozomi_Okuhara",
+   "discipline": "WS",
+   "name": "OKUHARA",
+   "fullName": "Nozomi OKUHARA",
+   "nation": "JPN",
+   "rank": 10,
+   "points": 68930,
+   "price": 15,
+   "players": [
+    "wp:Nozomi_Okuhara"
+   ]
+  },
+  {
+   "key": "wp:Han_Yue",
+   "discipline": "WS",
+   "name": "HAN",
+   "fullName": "HAN Yue",
+   "nation": "CHN",
+   "rank": 11,
+   "points": 64698,
+   "price": 14,
+   "players": [
+    "wp:Han_Yue"
+   ]
+  },
+  {
+   "key": "wp:Line_Christophersen",
+   "discipline": "WS",
+   "name": "CHRISTOPHERSEN",
+   "fullName": "Line CHRISTOPHERSEN",
+   "nation": "DEN",
+   "rank": 12,
+   "points": 57940,
+   "price": 13,
+   "players": [
+    "wp:Line_Christophersen"
+   ]
+  },
+  {
+   "key": "wp:Kim_Ga-eun_(badminton)",
+   "discipline": "WS",
+   "name": "KIM",
+   "fullName": "KIM Ga-eun",
+   "nation": "KOR",
+   "rank": 13,
+   "points": 57791,
+   "price": 12,
+   "players": [
+    "wp:Kim_Ga-eun_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Hina_Akechi",
+   "discipline": "WS",
+   "name": "AKECHI",
+   "fullName": "Hina AKECHI",
+   "nation": "JPN",
+   "rank": 14,
+   "points": 54680,
+   "price": 11,
+   "players": [
+    "wp:Hina_Akechi"
+   ]
+  },
+  {
+   "key": "wp:Sim_Yu-jin",
+   "discipline": "WS",
+   "name": "SIM",
+   "fullName": "SIM Yu-jin",
+   "nation": "KOR",
+   "rank": 15,
+   "points": 54544,
+   "price": 10,
+   "players": [
+    "wp:Sim_Yu-jin"
+   ]
+  },
+  {
+   "key": "wp:Michelle_Li",
+   "discipline": "WS",
+   "name": "LI",
+   "fullName": "Michelle LI",
+   "nation": "CAN",
+   "rank": 16,
+   "points": 53277,
+   "price": 9,
+   "players": [
+    "wp:Michelle_Li"
+   ]
+  },
+  {
+   "key": "wp:Lin_Hsiang-ti",
+   "discipline": "WS",
+   "name": "LIN",
+   "fullName": "LIN Hsiang-ti",
+   "nation": "TPE",
+   "rank": 17,
+   "points": 53009,
+   "price": 8,
+   "players": [
+    "wp:Lin_Hsiang-ti"
+   ]
+  },
+  {
+   "key": "wp:Line_Kjærsfeldt",
+   "discipline": "WS",
+   "name": "KJÆRSFELDT",
+   "fullName": "Line Højmark KJÆRSFELDT",
+   "nation": "DEN",
+   "rank": 18,
+   "points": 52533,
+   "price": 8,
+   "players": [
+    "wp:Line_Kjærsfeldt"
+   ]
+  },
+  {
+   "key": "wp:Riko_Gunji",
+   "discipline": "WS",
+   "name": "GUNJI",
+   "fullName": "Riko GUNJI",
+   "nation": "JPN",
+   "rank": 19,
+   "points": 52183,
+   "price": 8,
+   "players": [
+    "wp:Riko_Gunji"
+   ]
+  },
+  {
+   "key": "wp:Mia_Blichfeldt",
+   "discipline": "WS",
+   "name": "BLICHFELDT",
+   "fullName": "Mia BLICHFELDT",
+   "nation": "DEN",
+   "rank": 20,
+   "points": 49653,
+   "price": 8,
+   "players": [
+    "wp:Mia_Blichfeldt"
+   ]
+  },
+  {
+   "key": "wp:Kim_Won-ho+wp:Seo_Seung-jae",
+   "discipline": "MD",
+   "name": "KIM / SEO",
+   "fullName": "KIM Won-ho / SEO Seung-jae",
+   "nation": "KOR",
+   "rank": 1,
+   "points": 111499,
+   "price": 40,
+   "players": [
+    "wp:Kim_Won-ho",
+    "wp:Seo_Seung-jae"
+   ]
+  },
+  {
+   "key": "wp:Fajar_Alfian+wp:Muhammad_Shohibul_Fikri",
+   "discipline": "MD",
+   "name": "ALFIAN / FIKRI",
+   "fullName": "Fajar ALFIAN / Muhammad Shohibul FIKRI",
+   "nation": "INA",
+   "rank": 2,
+   "points": 95153,
+   "price": 36,
+   "players": [
+    "wp:Fajar_Alfian",
+    "wp:Muhammad_Shohibul_Fikri"
+   ]
+  },
+  {
+   "key": "wp:Liang_Weikeng+wp:Wang_Chang_(badminton)",
+   "discipline": "MD",
+   "name": "LIANG / WANG",
+   "fullName": "LIANG Weikeng / WANG Chang",
+   "nation": "CHN",
+   "rank": 3,
+   "points": 95089,
+   "price": 33,
+   "players": [
+    "wp:Liang_Weikeng",
+    "wp:Wang_Chang_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Aaron_Chia+wp:Soh_Wooi_Yik",
+   "discipline": "MD",
+   "name": "CHIA / YIK",
+   "fullName": "Aaron CHIA / Soh Wooi YIK",
+   "nation": "MAS",
+   "rank": 4,
+   "points": 87504,
+   "price": 30,
+   "players": [
+    "wp:Aaron_Chia",
+    "wp:Soh_Wooi_Yik"
+   ]
+  },
+  {
+   "key": "wp:Goh_Sze_Fei+wp:Nur_Izzuddin",
+   "discipline": "MD",
+   "name": "FEI / IZZUDDIN",
+   "fullName": "Goh Sze FEI / Nur IZZUDDIN",
+   "nation": "MAS",
+   "rank": 5,
+   "points": 80547,
+   "price": 27,
+   "players": [
+    "wp:Goh_Sze_Fei",
+    "wp:Nur_Izzuddin"
+   ]
+  },
+  {
+   "key": "wp:Chirag_Shetty+wp:Satwiksairaj_Rankireddy",
+   "discipline": "MD",
+   "name": "RANKIREDDY / SHETTY",
+   "fullName": "Satwiksairaj RANKIREDDY / Chirag SHETTY",
+   "nation": "IND",
+   "rank": 6,
+   "points": 74831,
+   "price": 24,
+   "players": [
+    "wp:Satwiksairaj_Rankireddy",
+    "wp:Chirag_Shetty"
+   ]
+  },
+  {
+   "key": "wp:Muhammad_Reza_Pahlevi_Isfahani+wp:Sabar_Karyaman_Gutama",
+   "discipline": "MD",
+   "name": "GUTAMA / ISFAHANI",
+   "fullName": "Sabar Karyaman GUTAMA / Muhammad Reza Pahlevi ISFAHANI",
+   "nation": "INA",
+   "rank": 7,
+   "points": 68746,
+   "price": 21,
+   "players": [
+    "wp:Sabar_Karyaman_Gutama",
+    "wp:Muhammad_Reza_Pahlevi_Isfahani"
+   ]
+  },
+  {
+   "key": "wp:Ben_Lane+wp:Sean_Vendy",
+   "discipline": "MD",
+   "name": "LANE / VENDY",
+   "fullName": "Ben LANE / Sean VENDY",
+   "nation": "ENG",
+   "rank": 8,
+   "points": 68421,
+   "price": 19,
+   "players": [
+    "wp:Ben_Lane",
+    "wp:Sean_Vendy"
+   ]
+  },
+  {
+   "key": "wp:Man_Wei_Chong+wp:Tee_Kai_Wun",
+   "discipline": "MD",
+   "name": "CHONG / WUN",
+   "fullName": "Man Wei CHONG / Tee Kai WUN",
+   "nation": "MAS",
+   "rank": 9,
+   "points": 67863,
+   "price": 17,
+   "players": [
+    "wp:Man_Wei_Chong",
+    "wp:Tee_Kai_Wun"
+   ]
+  },
+  {
+   "key": "wp:Takuro_Hoki+wp:Yugo_Kobayashi",
+   "discipline": "MD",
+   "name": "HOKI / KOBAYASHI",
+   "fullName": "Takuro HOKI / Yugo KOBAYASHI",
+   "nation": "JPN",
+   "rank": 10,
+   "points": 66460,
+   "price": 15,
+   "players": [
+    "wp:Takuro_Hoki",
+    "wp:Yugo_Kobayashi"
+   ]
+  },
+  {
+   "key": "wp:Kang_Min-hyuk_(badminton)+wp:Ki_Dong-ju",
+   "discipline": "MD",
+   "name": "KANG / KI",
+   "fullName": "KANG Min-hyuk / KI Dong-ju",
+   "nation": "KOR",
+   "rank": 11,
+   "points": 63153,
+   "price": 14,
+   "players": [
+    "wp:Kang_Min-hyuk_(badminton)",
+    "wp:Ki_Dong-ju"
+   ]
+  },
+  {
+   "key": "wp:Daniel_Lundgaard+wp:Mads_Vestergaard",
+   "discipline": "MD",
+   "name": "LUNDGAARD / VESTERGAARD",
+   "fullName": "Daniel LUNDGAARD / Mads VESTERGAARD",
+   "nation": "DEN",
+   "rank": 12,
+   "points": 63075,
+   "price": 13,
+   "players": [
+    "wp:Daniel_Lundgaard",
+    "wp:Mads_Vestergaard"
+   ]
+  },
+  {
+   "key": "wp:Chen_Boyang+wp:Liu_Yi_(badminton)",
+   "discipline": "MD",
+   "name": "CHEN / LIU",
+   "fullName": "CHEN Boyang / LIU Yi",
+   "nation": "CHN",
+   "rank": 13,
+   "points": 62715,
+   "price": 12,
+   "players": [
+    "wp:Chen_Boyang",
+    "wp:Liu_Yi_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Nikolaus_Joaquin+wp:Raymond_Indra",
+   "discipline": "MD",
+   "name": "INDRA / JOAQUIN",
+   "fullName": "Raymond INDRA / Nikolaus JOAQUIN",
+   "nation": "INA",
+   "rank": 14,
+   "points": 62086,
+   "price": 11,
+   "players": [
+    "wp:Raymond_Indra",
+    "wp:Nikolaus_Joaquin"
+   ]
+  },
+  {
+   "key": "wp:Lee_Jhe-huei+wp:Yang_Po-hsuan",
+   "discipline": "MD",
+   "name": "LEE / YANG",
+   "fullName": "LEE Jhe-huei / YANG Po-hsuan",
+   "nation": "TPE",
+   "rank": 15,
+   "points": 54506,
+   "price": 10,
+   "players": [
+    "wp:Lee_Jhe-huei",
+    "wp:Yang_Po-hsuan"
+   ]
+  },
+  {
+   "key": "wp:Hiroki_Nishi+wp:Kakeru_Kumagai",
+   "discipline": "MD",
+   "name": "KUMAGAI / NISHI",
+   "fullName": "Kakeru KUMAGAI / Hiroki NISHI",
+   "nation": "JPN",
+   "rank": 16,
+   "points": 52788,
+   "price": 9,
+   "players": [
+    "wp:Kakeru_Kumagai",
+    "wp:Hiroki_Nishi"
+   ]
+  },
+  {
+   "key": "wp:Hu_Keyuan+wp:Lin_Xiangyi",
+   "discipline": "MD",
+   "name": "HU / LIN",
+   "fullName": "HU Keyuan / LIN Xiangyi",
+   "nation": "CHN",
+   "rank": 17,
+   "points": 52153,
+   "price": 8,
+   "players": [
+    "wp:Hu_Keyuan",
+    "wp:Lin_Xiangyi"
+   ]
+  },
+  {
+   "key": "wp:Daniel_Marthin+wp:Leo_Rolly_Carnando",
+   "discipline": "MD",
+   "name": "CARNANDO / MARTHIN",
+   "fullName": "Leo Rolly CARNANDO / Daniel MARTHIN",
+   "nation": "INA",
+   "rank": 18,
+   "points": 51790,
+   "price": 8,
+   "players": [
+    "wp:Leo_Rolly_Carnando",
+    "wp:Daniel_Marthin"
+   ]
+  },
+  {
+   "key": "name:DEN:christian-faust-kj-r+name:DEN:rasmus-kj-r",
+   "discipline": "MD",
+   "name": "KJÆR / KJÆR",
+   "fullName": "Christian Faust KJÆR / Rasmus KJÆR",
+   "nation": "DEN",
+   "rank": 19,
+   "points": 50940,
+   "price": 8,
+   "players": [
+    "name:DEN:christian-faust-kj-r",
+    "name:DEN:rasmus-kj-r"
+   ]
+  },
+  {
+   "key": "wp:Chiu_Hsiang-chieh+wp:Wang_Chi-lin",
+   "discipline": "MD",
+   "name": "CHIU / WANG",
+   "fullName": "CHIU Hsiang-chieh / WANG Chi-lin",
+   "nation": "TPE",
+   "rank": 20,
+   "points": 50355,
+   "price": 8,
+   "players": [
+    "wp:Chiu_Hsiang-chieh",
+    "wp:Wang_Chi-lin"
+   ]
+  },
+  {
+   "key": "wp:Liu_Shengshu+wp:Tan_Ning_(badminton)",
+   "discipline": "WD",
+   "name": "LIU / TAN",
+   "fullName": "LIU Shengshu / TAN Ning",
+   "nation": "CHN",
+   "rank": 1,
+   "points": 114167,
+   "price": 40,
+   "players": [
+    "wp:Liu_Shengshu",
+    "wp:Tan_Ning_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Baek_Ha-na+wp:Lee_So-hee",
+   "discipline": "WD",
+   "name": "BAEK / LEE",
+   "fullName": "BAEK Ha-na / LEE So-hee",
+   "nation": "KOR",
+   "rank": 2,
+   "points": 100434,
+   "price": 36,
+   "players": [
+    "wp:Baek_Ha-na",
+    "wp:Lee_So-hee"
+   ]
+  },
+  {
+   "key": "wp:Mayu_Matsumoto+wp:Yuki_Fukushima",
+   "discipline": "WD",
+   "name": "FUKUSHIMA / MATSUMOTO",
+   "fullName": "Yuki FUKUSHIMA / Mayu MATSUMOTO",
+   "nation": "JPN",
+   "rank": 3,
+   "points": 95906,
+   "price": 33,
+   "players": [
+    "wp:Yuki_Fukushima",
+    "wp:Mayu_Matsumoto"
+   ]
+  },
+  {
+   "key": "wp:Pearly_Tan+wp:Thinaah_Muralitharan",
+   "discipline": "WD",
+   "name": "TAN / MURALITHARAN",
+   "fullName": "Pearly TAN / Thinaah MURALITHARAN",
+   "nation": "MAS",
+   "rank": 4,
+   "points": 87250,
+   "price": 30,
+   "players": [
+    "wp:Pearly_Tan",
+    "wp:Thinaah_Muralitharan"
+   ]
+  },
+  {
+   "key": "wp:Kie_Nakanishi+wp:Rin_Uesaka",
+   "discipline": "WD",
+   "name": "UESAKA / NAKANISHI",
+   "fullName": "Rin UESAKA / Kie NAKANISHI",
+   "nation": "JPN",
+   "rank": 5,
+   "points": 74414,
+   "price": 27,
+   "players": [
+    "wp:Rin_Uesaka",
+    "wp:Kie_Nakanishi"
+   ]
+  },
+  {
+   "key": "wp:Hsu_Yin-hui+wp:Lin_Jhih-yun",
+   "discipline": "WD",
+   "name": "HSU / LIN",
+   "fullName": "HSU Yin-hui / LIN Jhih-yun",
+   "nation": "TPE",
+   "rank": 6,
+   "points": 67324,
+   "price": 24,
+   "players": [
+    "wp:Hsu_Yin-hui",
+    "wp:Lin_Jhih-yun"
+   ]
+  },
+  {
+   "key": "wp:Febi_Setianingrum+wp:Rachel_Allessya_Rose",
+   "discipline": "WD",
+   "name": "ROSE / SETIANINGRUM",
+   "fullName": "Rachel Allessya ROSE / Febi SETIANINGRUM",
+   "nation": "INA",
+   "rank": 7,
+   "points": 66056,
+   "price": 21,
+   "players": [
+    "wp:Rachel_Allessya_Rose",
+    "wp:Febi_Setianingrum"
+   ]
+  },
+  {
+   "key": "wp:Amallia_Cahaya_Pratiwi+wp:Siti_Fadia_Silva_Ramadhanti",
+   "discipline": "WD",
+   "name": "PRATIWI / RAMADHANTI",
+   "fullName": "Amallia Cahaya PRATIWI / Siti Fadia Silva RAMADHANTI",
+   "nation": "INA",
+   "rank": 8,
+   "points": 62563,
+   "price": 19,
+   "players": [
+    "wp:Amallia_Cahaya_Pratiwi",
+    "wp:Siti_Fadia_Silva_Ramadhanti"
+   ]
+  },
+  {
+   "key": "wp:Gabriela_Stoeva+wp:Stefani_Stoeva",
+   "discipline": "WD",
+   "name": "STOEVA / STOEVA",
+   "fullName": "Gabriela STOEVA / Stefani STOEVA",
+   "nation": "BUL",
+   "rank": 9,
+   "points": 62556,
+   "price": 17,
+   "players": [
+    "wp:Gabriela_Stoeva",
+    "wp:Stefani_Stoeva"
+   ]
+  },
+  {
+   "key": "wp:Febriana_Dwipuji_Kusuma+wp:Meilysa_Trias_Puspita_Sari",
+   "discipline": "WD",
+   "name": "KUSUMA / SARI",
+   "fullName": "Febriana Dwipuji KUSUMA / Meilysa Trias Puspita SARI",
+   "nation": "INA",
+   "rank": 10,
+   "points": 61974,
+   "price": 15,
+   "players": [
+    "wp:Febriana_Dwipuji_Kusuma",
+    "wp:Meilysa_Trias_Puspita_Sari"
+   ]
+  },
+  {
+   "key": "wp:Miyu_Takahashi+wp:Sumire_Nakade",
+   "discipline": "WD",
+   "name": "NAKADE / TAKAHASHI",
+   "fullName": "Sumire NAKADE / Miyu TAKAHASHI",
+   "nation": "JPN",
+   "rank": 11,
+   "points": 60570,
+   "price": 14,
+   "players": [
+    "wp:Sumire_Nakade",
+    "wp:Miyu_Takahashi"
+   ]
+  },
+  {
+   "key": "wp:Hsieh_Pei-shan+wp:Hung_En-tzu",
+   "discipline": "WD",
+   "name": "HSIEH / HUNG",
+   "fullName": "HSIEH Pei-shan / HUNG En-tzu",
+   "nation": "TPE",
+   "rank": 12,
+   "points": 59515,
+   "price": 13,
+   "players": [
+    "wp:Hsieh_Pei-shan",
+    "wp:Hung_En-tzu"
+   ]
+  },
+  {
+   "key": "wp:Rui_Hirokami+wp:Sayaka_Hobara",
+   "discipline": "WD",
+   "name": "HIROKAMI / HOBARA",
+   "fullName": "Rui HIROKAMI / Sayaka HOBARA",
+   "nation": "JPN",
+   "rank": 13,
+   "points": 57960,
+   "price": 12,
+   "players": [
+    "wp:Rui_Hirokami",
+    "wp:Sayaka_Hobara"
+   ]
+  },
+  {
+   "key": "wp:Allison_Lee_(badminton)+wp:Lauren_Lam",
+   "discipline": "WD",
+   "name": "LAM / LEE",
+   "fullName": "Lauren LAM / Allison LEE",
+   "nation": "USA",
+   "rank": 14,
+   "points": 57539,
+   "price": 11,
+   "players": [
+    "wp:Lauren_Lam",
+    "wp:Allison_Lee_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Ayako_Sakuramoto+wp:Sayaka_Hirota",
+   "discipline": "WD",
+   "name": "HIROTA / SAKURAMOTO",
+   "fullName": "Sayaka HIROTA / Ayako SAKURAMOTO",
+   "nation": "JPN",
+   "rank": 15,
+   "points": 56120,
+   "price": 10,
+   "players": [
+    "wp:Sayaka_Hirota",
+    "wp:Ayako_Sakuramoto"
+   ]
+  },
+  {
+   "key": "name:CHN:bao-lijing+wp:Cao_Zihan",
+   "discipline": "WD",
+   "name": "BAO / CAO",
+   "fullName": "BAO Lijing / CAO Zihan",
+   "nation": "CHN",
+   "rank": 16,
+   "points": 55940,
+   "price": 9,
+   "players": [
+    "name:CHN:bao-lijing",
+    "wp:Cao_Zihan"
+   ]
+  },
+  {
+   "key": "wp:Hinata_Suzuki+wp:Nao_Yamakita",
+   "discipline": "WD",
+   "name": "SUZUKI / YAMAKITA",
+   "fullName": "Hinata SUZUKI / Nao YAMAKITA",
+   "nation": "JPN",
+   "rank": 17,
+   "points": 55387,
+   "price": 8,
+   "players": [
+    "wp:Hinata_Suzuki",
+    "wp:Nao_Yamakita"
+   ]
+  },
+  {
+   "key": "wp:Hsu_Ya-ching+wp:Sung_Yu-hsuan",
+   "discipline": "WD",
+   "name": "HSU / SUNG",
+   "fullName": "HSU Ya-ching / SUNG Yu-hsuan",
+   "nation": "TPE",
+   "rank": 18,
+   "points": 53849,
+   "price": 8,
+   "players": [
+    "wp:Hsu_Ya-ching",
+    "wp:Sung_Yu-hsuan"
+   ]
+  },
+  {
+   "key": "wp:Gayatri_Gopichand+wp:Treesa_Jolly",
+   "discipline": "WD",
+   "name": "JOLLY / GOPICHAND",
+   "fullName": "Treesa JOLLY / Gayatri GOPICHAND",
+   "nation": "IND",
+   "rank": 19,
+   "points": 53022,
+   "price": 8,
+   "players": [
+    "wp:Treesa_Jolly",
+    "wp:Gayatri_Gopichand"
+   ]
+  },
+  {
+   "key": "wp:Yeung_Nga_Ting+wp:Yeung_Pui_Lam",
+   "discipline": "WD",
+   "name": "YEUNG / YEUNG",
+   "fullName": "YEUNG Nga Ting / YEUNG Pui Lam",
+   "nation": "HKG",
+   "rank": 20,
+   "points": 52794,
+   "price": 8,
+   "players": [
+    "wp:Yeung_Nga_Ting",
+    "wp:Yeung_Pui_Lam"
+   ]
+  },
+  {
+   "key": "wp:Feng_Yanzhe+wp:Huang_Dongping",
+   "discipline": "XD",
+   "name": "FENG / HUANG",
+   "fullName": "FENG Yanzhe / HUANG Dongping",
+   "nation": "CHN",
+   "rank": 1,
+   "points": 109950,
+   "price": 40,
+   "players": [
+    "wp:Feng_Yanzhe",
+    "wp:Huang_Dongping"
+   ]
+  },
+  {
+   "key": "wp:Jiang_Zhenbang+wp:Wei_Yaxin",
+   "discipline": "XD",
+   "name": "JIANG / WEI",
+   "fullName": "JIANG Zhenbang / WEI Yaxin",
+   "nation": "CHN",
+   "rank": 2,
+   "points": 93600,
+   "price": 36,
+   "players": [
+    "wp:Jiang_Zhenbang",
+    "wp:Wei_Yaxin"
+   ]
+  },
+  {
+   "key": "wp:Delphine_Delrue+wp:Thom_Gicquel",
+   "discipline": "XD",
+   "name": "GICQUEL / DELRUE",
+   "fullName": "Thom GICQUEL / Delphine DELRUE",
+   "nation": "FRA",
+   "rank": 3,
+   "points": 89250,
+   "price": 33,
+   "players": [
+    "wp:Thom_Gicquel",
+    "wp:Delphine_Delrue"
+   ]
+  },
+  {
+   "key": "wp:Alexandra_Bøje+wp:Mathias_Christiansen",
+   "discipline": "XD",
+   "name": "CHRISTIANSEN / BØJE",
+   "fullName": "Mathias CHRISTIANSEN / Alexandra BØJE",
+   "nation": "DEN",
+   "rank": 4,
+   "points": 84470,
+   "price": 30,
+   "players": [
+    "wp:Mathias_Christiansen",
+    "wp:Alexandra_Bøje"
+   ]
+  },
+  {
+   "key": "wp:Chen_Fanghui+wp:Guo_Xinwa",
+   "discipline": "XD",
+   "name": "GUO / CHEN",
+   "fullName": "GUO Xinwa / CHEN Fanghui",
+   "nation": "CHN",
+   "rank": 5,
+   "points": 79670,
+   "price": 27,
+   "players": [
+    "wp:Guo_Xinwa",
+    "wp:Chen_Fanghui"
+   ]
+  },
+  {
+   "key": "wp:Dechapol_Puavaranukroh+wp:Sapsiree_Taerattanachai",
+   "discipline": "XD",
+   "name": "PUAVARANUKROH / TAERATTANACHAI",
+   "fullName": "Dechapol PUAVARANUKROH / Sapsiree TAERATTANACHAI",
+   "nation": "THA",
+   "rank": 6,
+   "points": 76690,
+   "price": 24,
+   "players": [
+    "wp:Dechapol_Puavaranukroh",
+    "wp:Sapsiree_Taerattanachai"
+   ]
+  },
+  {
+   "key": "wp:Cheng_Xing+wp:Zhang_Chi_(badminton)",
+   "discipline": "XD",
+   "name": "CHENG / ZHANG",
+   "fullName": "CHENG Xing / ZHANG Chi",
+   "nation": "CHN",
+   "rank": 7,
+   "points": 66800,
+   "price": 21,
+   "players": [
+    "wp:Cheng_Xing",
+    "wp:Zhang_Chi_(badminton)"
+   ]
+  },
+  {
+   "key": "wp:Nicole_Gonzales_Chan+wp:Ye_Hong-wei",
+   "discipline": "XD",
+   "name": "YE / NICOLE",
+   "fullName": "YE Hong-wei / NICOLE Gonzales Chan",
+   "nation": "TPE",
+   "rank": 8,
+   "points": 66630,
+   "price": 19,
+   "players": [
+    "wp:Ye_Hong-wei",
+    "wp:Nicole_Gonzales_Chan"
+   ]
+  },
+  {
+   "key": "wp:Amri_Syahnawi+wp:Nita_Violina_Marwah",
+   "discipline": "XD",
+   "name": "SYAHNAWI / MARWAH",
+   "fullName": "Amri SYAHNAWI / Nita Violina MARWAH",
+   "nation": "INA",
+   "rank": 9,
+   "points": 63020,
+   "price": 17,
+   "players": [
+    "wp:Amri_Syahnawi",
+    "wp:Nita_Violina_Marwah"
+   ]
+  },
+  {
+   "key": "wp:Maya_Taguchi+wp:Yuta_Watanabe_(badminton)",
+   "discipline": "XD",
+   "name": "WATANABE / TAGUCHI",
+   "fullName": "Yuta WATANABE / Maya TAGUCHI",
+   "nation": "JPN",
+   "rank": 10,
+   "points": 60700,
+   "price": 15,
+   "players": [
+    "wp:Yuta_Watanabe_(badminton)",
+    "wp:Maya_Taguchi"
+   ]
+  },
+  {
+   "key": "wp:Hu_Ling-fang+wp:Yang_Po-hsuan",
+   "discipline": "XD",
+   "name": "YANG / HU",
+   "fullName": "YANG Po-hsuan / HU Ling-fang",
+   "nation": "TPE",
+   "rank": 11,
+   "points": 59310,
+   "price": 14,
+   "players": [
+    "wp:Yang_Po-hsuan",
+    "wp:Hu_Ling-fang"
+   ]
+  },
+  {
+   "key": "wp:Goh_Soon_Huat+wp:Shevon_Jemie_Lai",
+   "discipline": "XD",
+   "name": "HUAT / LAI",
+   "fullName": "Goh Soon HUAT / Shevon Jemie LAI",
+   "nation": "MAS",
+   "rank": 12,
+   "points": 58750,
+   "price": 13,
+   "players": [
+    "wp:Goh_Soon_Huat",
+    "wp:Shevon_Jemie_Lai"
+   ]
+  },
+  {
+   "key": "wp:Akira_Koga+wp:Natsu_Saito",
+   "discipline": "XD",
+   "name": "KOGA / SAITO",
+   "fullName": "Akira KOGA / Natsu SAITO",
+   "nation": "JPN",
+   "rank": 13,
+   "points": 58410,
+   "price": 12,
+   "players": [
+    "wp:Akira_Koga",
+    "wp:Natsu_Saito"
+   ]
+  },
+  {
+   "key": "wp:Hoo_Pang_Ron+wp:Lai_Pei_Jing",
+   "discipline": "XD",
+   "name": "RON / JING",
+   "fullName": "Hoo Pang RON / Lai Pei JING",
+   "nation": "MAS",
+   "rank": 14,
+   "points": 57420,
+   "price": 11,
+   "players": [
+    "wp:Hoo_Pang_Ron",
+    "wp:Lai_Pei_Jing"
+   ]
+  },
+  {
+   "key": "wp:Tang_Chun_Man+wp:Tse_Ying_Suet",
+   "discipline": "XD",
+   "name": "TANG / TSE",
+   "fullName": "TANG Chun Man / TSE Ying Suet",
+   "nation": "HKG",
+   "rank": 15,
+   "points": 55070,
+   "price": 10,
+   "players": [
+    "wp:Tang_Chun_Man",
+    "wp:Tse_Ying_Suet"
+   ]
+  },
+  {
+   "key": "name:CHN:li-qian+wp:Zhu_Yijun_(badminton)",
+   "discipline": "XD",
+   "name": "ZHU / LI",
+   "fullName": "ZHU Yijun / LI Qian",
+   "nation": "CHN",
+   "rank": 16,
+   "points": 54620,
+   "price": 9,
+   "players": [
+    "wp:Zhu_Yijun_(badminton)",
+    "name:CHN:li-qian"
+   ]
+  },
+  {
+   "key": "name:CHN:gao-jiaxuan+name:CHN:wu-mengying",
+   "discipline": "XD",
+   "name": "GAO / WU",
+   "fullName": "GAO Jiaxuan / WU Mengying",
+   "nation": "CHN",
+   "rank": 17,
+   "points": 53060,
+   "price": 8,
+   "players": [
+    "name:CHN:gao-jiaxuan",
+    "name:CHN:wu-mengying"
+   ]
+  },
+  {
+   "key": "wp:Pakkapon_Teeraratsakul+wp:Sapsiree_Taerattanachai",
+   "discipline": "XD",
+   "name": "TEERARATSAKUL / TAERATTANACHAI",
+   "fullName": "Pakkapon TEERARATSAKUL / Sapsiree TAERATTANACHAI",
+   "nation": "THA",
+   "rank": 18,
+   "points": 52880,
+   "price": 8,
+   "players": [
+    "wp:Pakkapon_Teeraratsakul",
+    "wp:Sapsiree_Taerattanachai"
+   ]
+  },
+  {
+   "key": "wp:Sayaka_Hobara+wp:Yuichi_Shimogami",
+   "discipline": "XD",
+   "name": "SHIMOGAMI / HOBARA",
+   "fullName": "Yuichi SHIMOGAMI / Sayaka HOBARA",
+   "nation": "JPN",
+   "rank": 19,
+   "points": 52840,
+   "price": 8,
+   "players": [
+    "wp:Yuichi_Shimogami",
+    "wp:Sayaka_Hobara"
+   ]
+  },
+  {
+   "key": "wp:Jennie_Gai+wp:Presley_Smith",
+   "discipline": "XD",
+   "name": "SMITH / GAI",
+   "fullName": "Presley SMITH / Jennie GAI",
+   "nation": "USA",
+   "rank": 20,
+   "points": 51480,
+   "price": 8,
+   "players": [
+    "wp:Presley_Smith",
+    "wp:Jennie_Gai"
+   ]
+  },
+  {
+   "key": "name:THA:jenhicha-sudjaipraparat+name:THA:ratatapat-ouptong",
+   "discipline": "XD",
+   "name": "OUPTONG / SUDJAIPRAPARAT",
+   "fullName": "Ratatapat OUPTONG / Jenhicha SUDJAIPRAPARAT",
+   "nation": "THA",
+   "rank": 21,
+   "points": 81570,
+   "price": 7,
+   "players": [
+    "name:THA:ratatapat-ouptong",
+    "name:THA:jenhicha-sudjaipraparat"
+   ],
+   "unlisted": true
+  },
+  {
+   "key": "name:TPE:liu-kuang-heng+wp:Hsu_Yin-hui",
+   "discipline": "XD",
+   "name": "LIU / HSU",
+   "fullName": "LIU Kuang-heng / HSU Yin-hui",
+   "nation": "TPE",
+   "rank": 21,
+   "points": 50380,
+   "price": 7,
+   "players": [
+    "name:TPE:liu-kuang-heng",
+    "wp:Hsu_Yin-hui"
+   ],
+   "unlisted": true
+  }
+ ]
+}
